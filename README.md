@@ -1,6 +1,24 @@
+<!-- 
 - 👋 Hi, I’m @ravishrivas
 - 👀 I’m interested in computer science
-- 🌱 I’m currently learning full stack web development
+- 🌱 I’m currently learning full stack web development --->
+
+![logo](https://github.com/Sk783/Sk783/blob/main/not%20stopping%20here%2C.png)
+<h1 align="center">Hi 👋, I'm Ravi Shrivas</h1>
+<p align="center">I'm a pursuing graduation in Computer Science 🎓 from <a href="https://www.gbu.ac.in/">Gautam Buddha University 🏛</a>. I am passionate towards Full Stack development. I'm currently working on Data Structures and Algorithms.</p>
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c498lead70.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sk783&label=Profile%20views&color=0e75b6&style=flat" alt="sk783" /> </p>
+<h3 align="left">More About me: </h3>
+
+- 🌱 I’m currently learning **Fulll Stack Development**
+- 📫 How to reach me **official.ravee@gmail.com**
+  
+<!-- <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/sharad kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sharad kumar" height="30" width="40" /></a> -->
+</p>
+
 
 <!---
 ravishrivas/ravishrivas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
