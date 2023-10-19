@@ -3,7 +3,7 @@
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning full stack web development --->
 
-![logo](https://github.com/Sk783/Sk783/blob/main/not%20stopping%20here%2C.png)
+<!-- ![logo](https://github.com/Sk783/Sk783/blob/main/not%20stopping%20here%2C.png) -->
 <h1 align="center">Hi 👋, I'm Ravi Shrivas</h1>
 <p align="center">I'm a pursuing graduation in Computer Science 🎓 from <a href="https://www.gbu.ac.in/">Gautam Buddha University 🏛</a>. I am passionate towards Full Stack development. I'm currently working on Data Structures and Algorithms.</p>
 <!-- <img align="right" alt="coding" width="400" src=""> -->
