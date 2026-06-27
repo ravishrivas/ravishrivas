@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="banner.png" alt="Ravi Shrivas Banner" width="100%">
+  <img src="banner.png.png" alt="Ravi Shrivas Banner" width="100%">
 </p>
-
 <br>
 <h1 align="center">Hi 👋, I'm Ravi Shrivas</h1>
 <p align="center">Integrated B.Tech + M.Tech in Computer Science,🎓 from <a href="https://www.gbu.ac.in/">Gautam Buddha University 🏛</a>
