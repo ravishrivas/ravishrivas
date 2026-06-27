@@ -23,7 +23,7 @@
 Published in Springer Nature
 Proceedings of the Fifth International Conference on Computing and Communication Networks (ICCCN 2025)
 
-📄 **DOI:** [10.1007/978-3-032-21499-7_13](https://doi.org/10.1007/978-3-032-21499-7_13)
+[![DOI](https://img.shields.io/badge/DOI-10.1007%2F978--3--032--21499--7__13-blue?style=for-the-badge)](https://doi.org/10.1007/978-3-032-21499-7_13)
 
 🌱 Currently Learning
 
@@ -46,11 +46,11 @@ Proceedings of the Fifth International Conference on Computing and Communication
 
 ## 🌐 Academic Profiles
 
-🎓 Google Scholar: [View Profile](https://scholar.google.com/citations?user=Uz4IMvEAAAAJ)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=Uz4IMvEAAAAJ)
 
-🆔 ORCID: [0009-0006-3566-0625](https://orcid.org/0009-0006-3566-0625)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0006--3566--0625-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0006-3566-0625)
 
-📄 Publication: [Real-Time Cryptocurrency Forecasting Using Mamba-SSM](https://doi.org/10.1007/978-3-032-21499-7_13)
+[![Springer](https://img.shields.io/badge/Springer-Publication-0076C0?style=for-the-badge&logo=springer&logoColor=white)](https://doi.org/10.1007/978-3-032-21499-7_13)
 
 ## 📈 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=ravishrivas&show_icons=true&theme=github_dark)
